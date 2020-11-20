@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449380023956",
+    "firebase_url": "https://text-detector-10b8a.firebaseio.com",
+    "project_id": "text-detector-10b8a",
+    "storage_bucket": "text-detector-10b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449380023956:android:0814a0b9dbbe3cc296be81",
+        "android_client_info": {
+          "package_name": "com.myappcompany.proprakhar.ocr_letscopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449380023956-4qc33ans12259ff1o16h9oqsq27ahroe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArVrvOgqO3_LhxbR0c9Ns8kzXOITiO4WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449380023956-4qc33ans12259ff1o16h9oqsq27ahroe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

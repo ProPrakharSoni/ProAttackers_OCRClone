@@ -11,6 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.OCR_LetsCopy">
         <activity android:name=".MainActivity">
+            <meta-data
+                android:name="com.google.mlkit.vision.DEPENDENCIES"
+                android:value="ocr" />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
